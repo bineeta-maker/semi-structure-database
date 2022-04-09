@@ -1,0 +1,10 @@
+{"_id":{"$oid":"61c3b788d71e54cd06661557"},"city_id":"A001","city":"London","airportCost":{"refuelCost":100.0,"maintainanceCost":50.0,"hourlyStopRate":50.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd06661558"},"city_id":"A002","city":"Manchester","airportCost":{"refuelCost":100.0,"maintainanceCost":40.0,"hourlyStopRate":50.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd06661559"},"city_id":"A003","city":"Birmingham","airportCost":{"refuelCost":90.0,"maintainanceCost":30.0,"hourlyStopRate":40.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155a"},"city_id":"A004","city":"Leeds","airportCost":{"refuelCost":75.0,"maintainanceCost":20.0,"hourlyStopRate":50.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155b"},"city_id":"A005","city":"Glasgow","airportCost":{"refuelCost":100.0,"maintainanceCost":10.0,"hourlyStopRate":70.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155c"},"city_id":"A006","city":"Southamton","airportCost":{"refuelCost":75.0,"maintainanceCost":50.0,"hourlyStopRate":50.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155d"},"city_id":"A007","city":"Liverpool","airportCost":{"refuelCost":75.0,"maintainanceCost":70.0,"hourlyStopRate":40.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155e"},"city_id":"A008","city":"Sheffield","airportCost":{"refuelCost":60.0,"maintainanceCost":25.0,"hourlyStopRate":45.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd0666155f"},"city_id":"A009","city":"Belfast","airportCost":{"refuelCost":60.0,"maintainanceCost":45.0,"hourlyStopRate":50.0}}
+{"_id":{"$oid":"61c3b78ed71e54cd06661560"},"city_id":"A010","city":"Brighton","airportCost":{"refuelCost":90.0,"maintainanceCost":10.0,"hourlyStopRate":70.0}}

@@ -1,0 +1,4 @@
+{"_id":{"$oid":"61be924e11c198335aa96f62"},"plane_id":"P001","make":"Boing-737","model":"200LR","serviceTime":5.0,"state":{"status":"working"},"capacity":10.0,"flyingRange":1000.0,"unit":"km"}
+{"_id":{"$oid":"61be924e11c198335aa96f63"},"plane_id":"P002","make":"Boing-738","model":"300ER","serviceTime":10.0,"state":{"status":"working"},"capacity":10.0,"flyingRange":1000.0,"unit":"km"}
+{"_id":{"$oid":"61be924e11c198335aa96f64"},"plane_id":"P003","make":"Boing-739","model":"20BBJ0","serviceTime":20.0,"state":{"status":"upgraded","repairCost":100.0},"capacity":10.0,"flyingRange":1000.0,"unit":"km"}
+{"_id":{"$oid":"61be924e11c198335aa96f65"},"plane_id":"P004","make":"Boing-740","model":"740 MAX","serviceTime":15.0,"state":{"status":"in-repair","repairCost":50.0},"capacity":10.0,"flyingRange":1000.0,"unit":"km"}

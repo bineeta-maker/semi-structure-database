@@ -1,0 +1,4 @@
+{"_id":{"$oid":"61be923b11c198335aa96f5e"},"code_id":"EC001","employeeType":"Pilot","standardSalary":100.0}
+{"_id":{"$oid":"61be923b11c198335aa96f5f"},"code_id":"EC002","employeeType":"Booking Clerks","standardSalary":50.0}
+{"_id":{"$oid":"61be923b11c198335aa96f60"},"code_id":"EC003","employeeType":"Maintenance Staff","standardSalary":50.0}
+{"_id":{"$oid":"61be923b11c198335aa96f61"},"code_id":"EC004","employeeType":"Cabin Crew","standardSalary":75.0}
